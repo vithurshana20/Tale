@@ -1,6 +1,6 @@
-import about from "src/assets/images/about-us-image.jpg";  
-import video from "src/assets/images/video-thumb.jpg";
-import happyClient from "src/assets/images/happyclient-01.jpg";
+import about from '../assets/images/about-us-image.jpg';
+import video from '../assets/images/video-thumb.jpg';
+import happyClient from '../assets/images/happyclient-01.jpg';
 
 function Section(){
     return (
